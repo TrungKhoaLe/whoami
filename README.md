@@ -18,7 +18,7 @@
 ---
 
 ### 🤗 About Me :
-I am half developer, half reseacher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
+I am half developer and half reseacher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
 - :telescope: I create predictive models to help organizations tackle business challenges.
 
 - :seedling: Exploring Content Writing.
