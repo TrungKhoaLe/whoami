@@ -7,6 +7,9 @@
       <a href="https://twitter.com/blackmask2110">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
+      <a href="https://www.trungkhoale.com/">
+        <img src="https://img.shields.io/badge/-Homepage-blue?style=for-the-badge&logo=homepage&logoColor=white" alt="Homepage Badge"/">
+      </a>
     </div>
   <img src="https://komarev.com/ghpvc/?username=TrungKhoaLe&style=flat-square&color=blue" alt=""/>
   <h1>
