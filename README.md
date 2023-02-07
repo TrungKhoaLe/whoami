@@ -8,7 +8,7 @@
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
       <a href="https://www.trungkhoale.com/">
-        <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger Badge"/">
+        <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/">
       </a>
     </div>
   <img src="https://komarev.com/ghpvc/?username=TrungKhoaLe&style=flat-square&color=blue" alt=""/>
