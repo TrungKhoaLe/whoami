@@ -26,7 +26,7 @@ I am half developer and half reseacher <img src="https://media.giphy.com/media/W
 
 - :zap: In my spare time, I am keen on watching cosmology, astronomy, environment documentaries because I would like to know more about the place that I am living in and its surrounding space time.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-khoale-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khoa-le-2990b6113/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-khoale-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khoa-le-2990b6113/) or [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](khoaletrung@gmail.com)
 
 ---
 
