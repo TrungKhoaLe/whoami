@@ -21,10 +21,8 @@
 ---
 
 ### 🤗 About Me :
-I am half developer and half reseacher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
+I am half developer and half reseacher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I create predictive models and deploy them to the production environment to help organizations tackle business challenges.
-
-- :seedling: Exploring Content Writing.
 
 - :zap: In my spare time, I am keen on watching cosmology, astronomy, environment documentaries because I would like to know more about the place that I am living in and its surrounding space time.
 
