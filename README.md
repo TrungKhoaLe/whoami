@@ -22,7 +22,7 @@
 
 ### 🤗 About Me :
 I am a half developer and half reseacher <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I build predictive models and deploy them to the production environment to help organizations tackle business challenges.
+- :telescope: I am passionate about using AI to tackle business challenges and create value.
 
 - :zap: In my spare time, I am keen on watching cosmology, astronomy, environment documentaries because I would like to know more about the place that I am living in and its surrounding space time.
 
